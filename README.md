@@ -26,4 +26,14 @@ Result:
 </p>
 </details>
 
+<details><summary>Detect if python is executed in screen session</summary>
+<p>
 
+```py
+>>> from rousquille_tools.shell import is_in_screen_session
+>>> print(is_in_screen_session())
+False
+```
+
+</p>
+</details>
