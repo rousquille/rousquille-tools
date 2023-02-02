@@ -2,6 +2,12 @@
 
 My personal toolbox 🛠
 
+## Installation
+
+```
+pip install rousquille-tools
+```
+
 ## Python 🐍
 
 <details><summary>Measurement of the time used by a function</summary>
