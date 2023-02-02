@@ -1,10 +1,12 @@
 [tool.poetry]
 name = "rousquille-tools"
-version = "0.1.1"
+version = "0.1.2"
 description = "My personal toolbox"
 authors = ["Fabien ROSSA"]
 readme = "README.md"
 packages = [{include = "rousquille_tools"}]
+repository = "https://github.com/rousquille/rousquille-tools"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
